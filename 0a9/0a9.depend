@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695858939 source:c:\users\danie\onedrive\escritorio\clases\0a9\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+
